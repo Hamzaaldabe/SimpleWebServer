@@ -1,0 +1,33 @@
+<style>
+img{
+    float: left;
+}
+h1{
+    font: bold 40px "Times New Roman";
+    margin-left: 120px;
+    color: red;
+}
+h2{
+    font: bold 30px "Times New Roman";
+    margin-left: 50px;
+}
+ol{
+    font: bold 24px "Times New Roman";
+    margin-left: 50px;
+}
+body{
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+footer{
+    font: normal 24px "Times New Roman";
+    color:red;
+    width: 100%;
+    height: 80px;
+    padding: 30px;
+    position: fixed;
+    bottom: 0;
+}
+</style>

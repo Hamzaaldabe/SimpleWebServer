@@ -1,0 +1,55 @@
+<style>
+.blue{
+    color: blue;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font: bold 45px "Times New Roman";
+    margin: 30px;
+    padding: 35px;
+    background-color: #e0e0e0;
+    border-bottom: solid black;
+}
+h2,h3{
+    font: bold 30px "Times New Roman";
+    margin-left: 50px;
+}
+ol{
+    font: normal 24px "Times New Roman";
+    margin-left: 50px;
+}
+table{
+    font: normal 24px "Times New Roman";
+    margin: 30px;
+    text-align: middle;
+}
+th{
+    margin: 10px;
+    height: 40px;
+    width: 1695px;
+    text-align: middle;
+    color:white;
+    background-color: #808080;
+}
+td{
+    height: 120px;
+    padding-left: 750px;
+    padding-right: 10px;
+    text-align: middle;
+    background-color: #e6dcd6;
+}
+a{
+    padding-left: 60px;
+}
+body{
+    font: italic 18px "Arial";
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+</style>
